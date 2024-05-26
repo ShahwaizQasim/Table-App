@@ -108,7 +108,15 @@ button:hover {
   .table-box {
     width: 90%;
   }
+  h1 {
+    font-size: 2rem !important;
+  }
   button {
     width: 60%;
   }
+  button {
+    height: 40px;
+    width: 140px;
+    font-size: 0.8rem;
+}
 }
